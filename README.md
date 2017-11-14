@@ -13,3 +13,7 @@ python /home/USERNAME/NOMEFILE.py
 ```
 
 Per collegarsi al Kano senza schermo (ad es. via SSH) può essere utile rinominare l'hostname con un alias tipo NOMEKANO.local
+
+# An example:
+
+![alt text](https://github.com/scollovati/kano_make_light_lightboard_examples/blob/master/kano_labs.gif)

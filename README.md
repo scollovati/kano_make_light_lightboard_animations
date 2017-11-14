@@ -9,7 +9,7 @@ Cool animations created with Kano Make Lights App for the Kano Lightboard.
 Aggiungere nel file `/etc/rc.local` l'istruzione
 
 ```
-python NOMEFILE.py
+python /home/USERNAME/NOMEFILE.py
 ```
 
 Per collegarsi al Kano senza schermo (ad es. via SSH) può essere utile rinominare l'hostname con un alias tipo NOMEKANO.local

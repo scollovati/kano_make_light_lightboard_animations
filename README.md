@@ -4,6 +4,7 @@ _Cool animations created with KANO Make Light App for the KANO Lightboard Power-
 Cool animations that run in the background while [KANO OS :computer:](http://developers.kano.me/downloads/) is working.
 
 An example:
+
 ![alt text](https://github.com/scollovati/kano_make_light_lightboard_examples/blob/master/kano_labs.gif)
 
 Here you'll find a simple recipe for creating your own looped animation.
@@ -36,5 +37,5 @@ python /home/USERNAME/FILENAME.py
 ```
 Here we assumed that the file is in the home folder: if not modify the path accordingly.
 
-## Aknowledgments
+## Acknowledgments
 [KANO Developers](http://developers.kano.me/downloads/) for this great and cool software and hardware :v:

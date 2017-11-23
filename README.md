@@ -1,7 +1,7 @@
 # KANO Make Light Lightboard Animations
-_Cool animations created with KANO Make Light App for the KANO Lightboard Power-Up._
+_Made with KANO Make Light & Lighboard Power-Up._
 
-Cool animations that run in the background while [KANO OS :computer:](http://developers.kano.me/downloads/) is working.
+Cool animation that loops in the background while [KANO OS :computer:](http://developers.kano.me/downloads/) is working.
 
 An example:
 
